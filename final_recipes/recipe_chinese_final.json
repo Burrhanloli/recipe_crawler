@@ -1,0 +1,801 @@
+[
+    {
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3189150.jpg",
+        "serving": 4,
+        "title": "Mongolian Beef and Spring Onions",
+        "desc": "A soy-based Chinese-style beef dish. Best served over soft rice noodles or rice.",
+        "author": "vkarlson",
+        "prep_time": "12 mins",
+        "cook_time": "8 mins",
+        "total_time": "10 mins",
+        "ingredients": [
+            {
+                "quantity": "2",
+                "measurement": "teaspoons",
+                "ingredient": "vegetable oil",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "tablespoon",
+                "ingredient": "garlic",
+                "comment": "finely chopped "
+            },
+            {
+                "quantity": "\u00bd",
+                "measurement": "teaspoon",
+                "ingredient": "fresh ginger root",
+                "comment": "grated"
+            },
+            {
+                "quantity": "\u00bd",
+                "measurement": "cup",
+                "ingredient": "soy sauce",
+                "comment": ""
+            },
+            {
+                "quantity": "\u00bd",
+                "measurement": "cup",
+                "ingredient": "water",
+                "comment": ""
+            },
+            {
+                "quantity": "\u2154",
+                "measurement": "cup",
+                "ingredient": "dark brown sugar",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "pound",
+                "ingredient": "beef flank steak",
+                "comment": "sliced 1/4 inch thick on the diagonal"
+            },
+            {
+                "quantity": "\u00bc",
+                "measurement": "cup",
+                "ingredient": "cornstarch",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "cup",
+                "ingredient": "vegetable oil",
+                "comment": "for frying"
+            },
+            {
+                "quantity": "2",
+                "measurement": "bunches",
+                "ingredient": "green onions",
+                "comment": "cut in 2-inch lengths"
+            }
+        ],
+        "instruction": [
+            "Heat 2 teaspoons of vegetable oil in a saucepan over medium heat, and cook and stir the garlic and ginger until they release their fragrance, about 30 seconds. Pour in the soy sauce, water, and brown sugar. Raise the heat to medium-high, and stir 4 minutes, until the sugar has dissolved and the sauce boils and slightly thickens. Remove sauce from the heat, and set aside.",
+            "Place the sliced beef into a bowl, and stir the cornstarch into the beef, coating it thoroughly. Allow the beef and cornstarch to sit until most of the juices from the meat have been absorbed by the cornstarch, about 10 minutes.",
+            "Heat the vegetable oil in a deep-sided skillet or wok to 375 degrees F (190 degrees C).",
+            "Shake excess cornstarch from the beef slices, and drop them into the hot oil, a few at a time. Stir briefly, and fry until the edges become crisp and start to brown, about 2 minutes. Remove the beef from the oil with a large slotted spoon, and allow to drain on paper towels to remove excess oil.",
+            "Pour the oil out of the skillet or wok, and return the pan to medium heat. Return the beef slices to the pan, stir briefly, and pour in the reserved sauce. Stir once or twice to combine, and add the green onions. Bring the mixture to a boil, and cook until the onions have softened and turned bright green, about 2 minutes."
+        ],
+        "rating": "4.61",
+        "nutrition": [
+            "391 calories",
+            "protein 18g",
+            "carbohydrates 54.7g",
+            "fat 12.1g",
+            "cholesterol 27.2mg",
+            "sodium 1861.8mg. "
+        ],
+        "Cuisine": "Chinese"
+    },
+    {
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1660326.jpg",
+        "serving": 8,
+        "title": "Sweet and Sour Chicken I",
+        "desc": "Pan fried chicken cubes served with a sweet and sour sauce.",
+        "author": "LINDAHU",
+        "prep_time": "30 mins",
+        "cook_time": "20 mins",
+        "total_time": "10 mins",
+        "ingredients": [
+            {
+                "quantity": "1 (8 ounce)",
+                "measurement": "can",
+                "ingredient": "pineapple",
+                "comment": "chunks, drained (juice reserved)"
+            },
+            {
+                "quantity": "\u00bc",
+                "measurement": "cup",
+                "ingredient": "cornstarch",
+                "comment": ""
+            },
+            {
+                "quantity": "1\u2009\u00be",
+                "measurement": "cups",
+                "ingredient": "water",
+                "comment": ""
+            },
+            {
+                "quantity": "\u00be",
+                "measurement": "cup",
+                "ingredient": "white sugar",
+                "comment": ""
+            },
+            {
+                "quantity": "\u00bd",
+                "measurement": "cup",
+                "ingredient": "white vinegar",
+                "comment": "distilled"
+            },
+            {
+                "quantity": "2",
+                "measurement": "drops",
+                "ingredient": "orange food color",
+                "comment": ""
+            },
+            {
+                "quantity": "8",
+                "measurement": "",
+                "ingredient": "skinless, boneless chicken breast halves",
+                "comment": "cut into 1 inch cubes"
+            },
+            {
+                "quantity": "2\u2009\u00bc",
+                "measurement": "cups",
+                "ingredient": "self-rising flour",
+                "comment": ""
+            },
+            {
+                "quantity": "2",
+                "measurement": "tablespoons",
+                "ingredient": "vegetable oil",
+                "comment": ""
+            },
+            {
+                "quantity": "2",
+                "measurement": "tablespoons",
+                "ingredient": "cornstarch",
+                "comment": ""
+            },
+            {
+                "quantity": "\u00bd",
+                "measurement": "teaspoon",
+                "ingredient": "salt",
+                "comment": ""
+            },
+            {
+                "quantity": "\u00bc",
+                "measurement": "teaspoon",
+                "ingredient": "ground white pepper",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "",
+                "ingredient": "egg",
+                "comment": ""
+            },
+            {
+                "quantity": "1\u2009\u00bd",
+                "measurement": "cups",
+                "ingredient": "water",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "quart",
+                "ingredient": "vegetable oil",
+                "comment": "for frying"
+            },
+            {
+                "quantity": "2",
+                "measurement": "green",
+                "ingredient": "bell pepper",
+                "comment": "cut into 1 inch pieces"
+            }
+        ],
+        "instruction": [
+            "In a saucepan, combine 1 1/2 cups water, sugar, vinegar, reserved pineapple juice, and orange food coloring. Heat to boiling. Turn off heat. Combine 1/4 cup cornstarch and 1/4 cup water; slowly stir into saucepan. Continue stirring until mixture thickens.",
+            "Combine flour, 2 tablespoons oil, 2 tablespoons cornstarch, salt, white pepper, and egg. Add 1 1/2 cups water gradually to make a thick batter. Stir to blend thoroughly. Add chicken pieces, and stir until chicken is well coated.",
+            "Heat oil in skillet or wok to 360 degrees F (180 degrees C). Fry chicken pieces in hot oil 10 minutes, or until golden. Remove chicken, and drain on paper towels.",
+            "When ready to serve, layer green peppers, pineapple chunks, and cooked chicken pieces on a platter. Pour hot sweet and sour sauce over top."
+        ],
+        "rating": "4.49",
+        "nutrition": [
+            "639 calories",
+            "protein 59.2g",
+            "carbohydrates 56.2g",
+            "fat 18.4g",
+            "cholesterol 160.1mg",
+            "sodium 758.6mg. "
+        ],
+        "Cuisine": "Chinese"
+    },
+    {
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7127114.jpg",
+        "serving": 4,
+        "title": "Chinese Pepper Steak",
+        "desc": "A delicious meal, served with boiled white rice, that's easy and made from items that I've already got in my cupboards! My mother clipped this recipe from somewhere and it became a specialty of mine; however, I've been unable to find the original source.",
+        "author": "Kim Wilson",
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "measurement": "pound",
+                "ingredient": "beef top sirloin steak",
+                "comment": ""
+            },
+            {
+                "quantity": "\u00bc",
+                "measurement": "cup",
+                "ingredient": "soy sauce",
+                "comment": ""
+            },
+            {
+                "quantity": "2",
+                "measurement": "tablespoons",
+                "ingredient": "white sugar",
+                "comment": ""
+            },
+            {
+                "quantity": "2",
+                "measurement": "tablespoons",
+                "ingredient": "cornstarch",
+                "comment": ""
+            },
+            {
+                "quantity": "\u00bd",
+                "measurement": "teaspoon",
+                "ingredient": "ground ginger",
+                "comment": ""
+            },
+            {
+                "quantity": "3",
+                "measurement": "tablespoons",
+                "ingredient": "vegetable oil",
+                "comment": "divided"
+            },
+            {
+                "quantity": "1",
+                "measurement": "",
+                "ingredient": "red onion",
+                "comment": "cut into 1-inch squares"
+            },
+            {
+                "quantity": "1",
+                "measurement": "",
+                "ingredient": "green bell pepper",
+                "comment": "cut into 1-inch squares"
+            },
+            {
+                "quantity": "2",
+                "measurement": "",
+                "ingredient": "tomatoes",
+                "comment": "cut into wedges"
+            }
+        ],
+        "instruction": [
+            "Slice the steak into 1/2-inch thick slices across the grain.",
+            "Whisk together soy sauce, sugar, cornstarch, and ginger in a bowl until the sugar has dissolved and the mixture is smooth. Place the steak slices into the marinade, and stir until well-coated.",
+            "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat, and place 1/3 of the steak strips into the hot oil. Cook and stir until the beef is well-browned, about 3 minutes, and remove the beef from the wok to a bowl. Repeat twice more, with the remaining beef, and set the cooked beef aside.",
+            "Return all the cooked beef to the hot wok, and stir in the onion. Toss the beef and onion together until the onion begins to soften, about 2 minutes, then stir in the green pepper. Cook and stir the mixture until the pepper has turned bright green and started to become tender, about 2 minutes, then add the tomatoes, stir everything together, and serve."
+        ],
+        "rating": "4.61",
+        "nutrition": [
+            "312 calories",
+            "protein 26.1g",
+            "carbohydrates 17g",
+            "fat 15.4g",
+            "cholesterol 69.2mg",
+            "sodium 972.4mg. "
+        ],
+        "Cuisine": "Chinese"
+    },
+    {
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F522244.jpg",
+        "serving": 7,
+        "title": "Chinese Chicken Fried Rice I",
+        "desc": "Chicken fried rice, just like they serve in the restaurants! A stir fry with chicken, rice, soy sauce and veggies like peas, carrots, celery and bell peppers. This is something my sister just sort of whipped up one day. It's very good!",
+        "author": "sal",
+        "prep_time": "25 mins",
+        "cook_time": "15 mins",
+        "total_time": "40 mins",
+        "ingredients": [
+            {
+                "quantity": "\u00bd",
+                "measurement": "tablespoon",
+                "ingredient": "sesame oil",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "",
+                "ingredient": "onion",
+                "comment": ""
+            },
+            {
+                "quantity": "1\u2009\u00bd",
+                "measurement": "pounds",
+                "ingredient": "cooked chicken meat",
+                "comment": "cubed"
+            },
+            {
+                "quantity": "2",
+                "measurement": "tablespoons",
+                "ingredient": "soy sauce",
+                "comment": ""
+            },
+            {
+                "quantity": "2",
+                "measurement": "",
+                "ingredient": "carrots",
+                "comment": "diced"
+            },
+            {
+                "quantity": "2",
+                "measurement": "stalks",
+                "ingredient": "celery",
+                "comment": "chopped"
+            },
+            {
+                "quantity": "1",
+                "measurement": "large",
+                "ingredient": "red bell pepper",
+                "comment": "diced"
+            },
+            {
+                "quantity": "\u00be",
+                "measurement": "cup",
+                "ingredient": "fresh pea pods",
+                "comment": "halved"
+            },
+            {
+                "quantity": "\u00bd large",
+                "measurement": "",
+                "ingredient": "green bell pepper",
+                "comment": "diced"
+            },
+            {
+                "quantity": "6",
+                "measurement": "cups",
+                "ingredient": "cooked white rice",
+                "comment": ""
+            },
+            {
+                "quantity": "2",
+                "measurement": "",
+                "ingredient": "eggs",
+                "comment": ""
+            },
+            {
+                "quantity": "\u2153",
+                "measurement": "cup",
+                "ingredient": "soy sauce",
+                "comment": ""
+            }
+        ],
+        "instruction": [
+            "Heat oil in a large skillet over medium heat. Add onion and saute until soft, then add chicken and 2 tablespoons soy sauce and stir-fry for 5 to 6 minutes.",
+            "Stir in carrots, celery, red bell pepper, pea pods and green bell pepper and stir-fry another 5 minutes. Then add rice and stir thoroughly.",
+            "Finally, stir in scrambled eggs and 1/3 cup soy sauce, heat through and serve hot."
+        ],
+        "rating": "4.28",
+        "nutrition": [
+            "425 calories",
+            "protein 34.7g",
+            "carbohydrates 47.5g",
+            "fat 9.5g",
+            "cholesterol 133.9mg",
+            "sodium 1060.4mg. "
+        ],
+        "Cuisine": "Chinese"
+    },
+    {
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2021%2F04%2F22%2F707354_original-2000.jpg",
+        "serving": 4,
+        "title": "Chinese Chicken Fried Rice II",
+        "desc": "Chicken, rice, soy sauce and shredded egg stir fried together. This is a very simple recipe. It is easy, but tasty! Note: Never use rice that you have just cooked.",
+        "author": "LISA TOURVILLE",
+        "prep_time": "5 mins",
+        "cook_time": "10 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "measurement": "",
+                "ingredient": "egg",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "tablespoon",
+                "ingredient": "water",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "tablespoon",
+                "ingredient": "butter",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "tablespoon",
+                "ingredient": "vegetable oil",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "onion,",
+                "ingredient": "chopped",
+                "comment": ""
+            },
+            {
+                "quantity": "2",
+                "measurement": "cups",
+                "ingredient": "cooked white rice",
+                "comment": "cold"
+            },
+            {
+                "quantity": "2",
+                "measurement": "tablespoons",
+                "ingredient": "soy sauce",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "teaspoon",
+                "ingredient": "ground black pepper",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "cup cooked,",
+                "ingredient": "chicken meat",
+                "comment": "chopped"
+            }
+        ],
+        "instruction": [
+            "In a small bowl, beat egg with water. Melt butter in a large skillet over medium low heat. Add egg and leave flat for 1 to 2 minutes. Remove from skillet and cut into shreds.",
+            "Heat oil in same skillet; add onion and saute until soft. Then add rice, soy sauce, pepper and chicken. Stir fry together for about 5 minutes, then stir in egg. Serve hot."
+        ],
+        "rating": "4.41",
+        "nutrition": [
+            "255 calories",
+            "protein 14.1g",
+            "carbohydrates 25.9g",
+            "fat 10.2g",
+            "cholesterol 83.2mg",
+            "sodium 515.6mg. "
+        ],
+        "Cuisine": "Chinese"
+    },
+    {
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6644307.jpg",
+        "serving": 4,
+        "title": "Bang Bang Chicken",
+        "desc": "This is a wonderful Americanized version of an extremely popular Sichuan Chinese dish. With twice-fried chicken, you get the crispy fried breading you'd expect, and the bang bang sauce drizzle just makes the entire dish spectacular. You'll love this more than any Chinese takeout version. Pay attention to the notes in the directions!!",
+        "author": "Diana71",
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "15 mins",
+        "ingredients": [
+            {
+                "quantity": "\u2153",
+                "measurement": "cup",
+                "ingredient": "milk",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "",
+                "ingredient": "egg",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "pound",
+                "ingredient": "boneless, skinless chicken breasts",
+                "comment": "cut into 1-inch cubes"
+            },
+            {
+                "quantity": "\u00bc",
+                "measurement": "cup",
+                "ingredient": "potato starch",
+                "comment": ""
+            },
+            {
+                "quantity": "\u00bc",
+                "measurement": "cup",
+                "ingredient": "all-purpose flour",
+                "comment": ""
+            },
+            {
+                "quantity": "\u00bd",
+                "measurement": "teaspoon",
+                "ingredient": "salt",
+                "comment": ""
+            },
+            {
+                "quantity": "\u00bc",
+                "measurement": "teaspoon",
+                "ingredient": "ground black pepper",
+                "comment": ""
+            },
+            {
+                "quantity": "\u00bc",
+                "measurement": "teaspoon",
+                "ingredient": "red pepper condiment",
+                "comment": ""
+            },
+            {
+                "quantity": "\u00bc",
+                "measurement": "cup",
+                "ingredient": "mayonnaise",
+                "comment": ""
+            },
+            {
+                "quantity": "2",
+                "measurement": "tablespoons",
+                "ingredient": "honey",
+                "comment": ""
+            },
+            {
+                "quantity": "2",
+                "measurement": "tablespoons",
+                "ingredient": "sweet chili sauce",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "teaspoon",
+                "ingredient": "hot pepper paste",
+                "comment": ""
+            }
+        ],
+        "instruction": [
+            "Whisk together milk and egg in a bowl until smooth. Add chicken to egg wash and marinate for 15 minutes. Drain.",
+            "Combine potato starch, flour, salt, pepper, and ground red pepper in a bowl and transfer into a large resealable bag. Add egg-washed chicken pieces and shake until each piece is completely dredged.",
+            "Heat oil in a large skillet to 325 degrees F (165 degrees C).",
+            "Add chicken pieces into the oil in batches, about 5 to 8 pieces at a time, so as not to drop the temperature of the oil. Fry for 90 seconds. Remove to a paper-towel lined plate to drain. Fry remaining chicken pieces.",
+            "Increase oil temperature to 350 degrees F (175 degrees C). The oil should be continuously boiling at this point. Carefully re-add the first batch of chicken and fry another 90 seconds. Remove to a paper-towel lined plate to drain. Fry and drain the remaining chicken. Transfer chicken to a medium bowl.",
+            "Stir mayonnaise, honey, sweet chili sauce, and gochujang together in a small bowl. Toss fried chicken with sauce to coat."
+        ],
+        "rating": "4.49",
+        "nutrition": [
+            "404 calories",
+            "protein 26.7g",
+            "carbohydrates 27.3g",
+            "fat 20.8g",
+            "cholesterol 112.4mg",
+            "sodium 545.9mg. "
+        ],
+        "Cuisine": "Chinese"
+    },
+    {
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8927463.jpg",
+        "serving": 6,
+        "title": "General Tsao's Chicken II",
+        "desc": "A genuinely mouthwatering dish with an Asian kick that will knock your chopsticks off! Don't be fooled by other General Tsao impostors: this is simply the best Chinese chicken you will ever have. With a flair of peanut oil, a streak of sesame, a dash of orange, and a sweet spot for hot, this is sure to be a favorite. Just don't forget to deep-fry twice! Serve with steamed broccoli and white rice.",
+        "author": "ChefDaddy",
+        "prep_time": "25 mins",
+        "cook_time": "25 mins",
+        "total_time": "50 mins",
+        "ingredients": [
+            {
+                "quantity": "4",
+                "measurement": "cups",
+                "ingredient": "vegetable oil",
+                "comment": "for frying"
+            },
+            {
+                "quantity": "1",
+                "measurement": "",
+                "ingredient": "egg",
+                "comment": ""
+            },
+            {
+                "quantity": "1\u2009\u00bd",
+                "measurement": "pounds",
+                "ingredient": "boneless, skinless chicken thighs",
+                "comment": "cut into 1/2 inch cubes"
+            },
+            {
+                "quantity": "1",
+                "measurement": "teaspoon",
+                "ingredient": "salt",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "teaspoon",
+                "ingredient": "white sugar",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "pinch",
+                "ingredient": "white pepper",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "cup",
+                "ingredient": "cornstarch",
+                "comment": ""
+            },
+            {
+                "quantity": "2",
+                "measurement": "tablespoons",
+                "ingredient": "vegetable oil",
+                "comment": ""
+            },
+            {
+                "quantity": "3",
+                "measurement": "tablespoons",
+                "ingredient": "green onion",
+                "comment": "chopped"
+            },
+            {
+                "quantity": "1",
+                "measurement": "clove",
+                "ingredient": "garlic",
+                "comment": "minced"
+            },
+            {
+                "quantity": "6",
+                "measurement": "dried",
+                "ingredient": "whole red chilies",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "strip",
+                "ingredient": "orange zest",
+                "comment": ""
+            },
+            {
+                "quantity": "\u00bd",
+                "measurement": "cup",
+                "ingredient": "white sugar",
+                "comment": ""
+            },
+            {
+                "quantity": "\u00bc",
+                "measurement": "teaspoon",
+                "ingredient": "ground ginger",
+                "comment": ""
+            },
+            {
+                "quantity": "3",
+                "measurement": "tablespoons",
+                "ingredient": "chicken broth",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "tablespoon",
+                "ingredient": "rice vinegar",
+                "comment": ""
+            },
+            {
+                "quantity": "\u00bc",
+                "measurement": "cup",
+                "ingredient": "soy sauce",
+                "comment": ""
+            },
+            {
+                "quantity": "2",
+                "measurement": "teaspoons",
+                "ingredient": "sesame oil",
+                "comment": ""
+            },
+            {
+                "quantity": "2",
+                "measurement": "tablespoons",
+                "ingredient": "peanut oil",
+                "comment": ""
+            },
+            {
+                "quantity": "2",
+                "measurement": "teaspoons",
+                "ingredient": "cornstarch",
+                "comment": ""
+            },
+            {
+                "quantity": "\u00bc",
+                "measurement": "cup",
+                "ingredient": "water",
+                "comment": ""
+            }
+        ],
+        "instruction": [
+            "Heat 4 cups vegetable oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C).",
+            "Beat the egg in a mixing bowl. Add the chicken cubes; sprinkle with salt, 1 teaspoon sugar, and white pepper; mix well. Mix in 1 cup of cornstarch a little bit at a time until the chicken cubes are well coated.",
+            "In batches, carefully drop the chicken cubes into the hot oil one by one, cooking until they turns golden brown and begin to float, about 3 minutes. Remove the chicken and allow to cool as you fry the next batch. Once all of the chicken has been fried, refry the chicken, starting with the batch that was cooked first. Cook until the chicken turns deep golden brown, about 2 minutes more. Drain on a paper towel-lined plate.",
+            "Heat 2 tablespoons vegetable oil in a wok or large skillet over high heat. Stir in the green onion, garlic, whole chiles, and orange zest. Cook and stir a minute or two until the garlic has turned golden and the chiles brighten. Add 1/2 cup sugar, the ginger, chicken broth, vinegar, soy sauce, sesame oil, and peanut oil; bring to a boil and cook for 3 minutes.",
+            "Dissolve 2 teaspoons of cornstarch into the water, and stir into the boiling sauce. Return to a boil and cook until the sauce thickens and is no longer cloudy from the cornstarch, about 1 minute. Stir the chicken into the boiling sauce. Reduce heat to low and cook for a few minutes until the chicken absorbs some of the sauce."
+        ],
+        "rating": "4.77",
+        "nutrition": [
+            "634 calories",
+            "protein 24.3g",
+            "carbohydrates 54.9g",
+            "fat 36.5g",
+            "cholesterol 101.1mg",
+            "sodium 1191.6mg. "
+        ],
+        "Cuisine": "Chinese"
+    },
+    {
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4486830.jpg",
+        "serving": 4,
+        "title": "Restaurant Style Egg Drop Soup",
+        "desc": "This Egg Drop soup is born from a love of the soup and MANY trips to my favorite Chinese restaurant (asking them many questions) resulting in this variation. Compare it to your local restaurant...The simplicity is the key. Soup can be re-heated or frozen and re-heated.",
+        "author": "W.J. Cory",
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "20 mins",
+        "ingredients": [
+            {
+                "quantity": "4",
+                "measurement": "cups",
+                "ingredient": "chicken broth",
+                "comment": "divided"
+            },
+            {
+                "quantity": "\u215b",
+                "measurement": "teaspoon",
+                "ingredient": "ground ginger",
+                "comment": ""
+            },
+            {
+                "quantity": "2",
+                "measurement": "tablespoons",
+                "ingredient": "fresh chives",
+                "comment": "chopped"
+            },
+            {
+                "quantity": "\u00bc",
+                "measurement": "teaspoon",
+                "ingredient": "salt",
+                "comment": ""
+            },
+            {
+                "quantity": "1\u2009\u00bd",
+                "measurement": "tablespoons",
+                "ingredient": "cornstarch",
+                "comment": ""
+            },
+            {
+                "quantity": "2",
+                "measurement": "",
+                "ingredient": "eggs",
+                "comment": ""
+            },
+            {
+                "quantity": "1",
+                "measurement": "",
+                "ingredient": "egg yolk",
+                "comment": ""
+            }
+        ],
+        "instruction": [
+            "Reserve 3/4 cup of chicken broth, and pour the rest into a large saucepan. Stir the salt, ginger and chives into the saucepan, and bring to a rolling boil. In a cup or small bowl, stir together the remaining broth and cornstarch until smooth. Set aside.",
+            "In a small bowl, whisk the eggs and egg yolk together using a fork. Drizzle egg a little at a time from the fork into the boiling broth mixture. Egg should cook immediately. Once the eggs have been dropped, stir in the cornstarch mixture gradually until the soup is the desired consistency."
+        ],
+        "rating": "4.53",
+        "nutrition": [
+            "76 calories",
+            "protein 4.9g",
+            "carbohydrates 4.2g",
+            "fat 4.1g",
+            "cholesterol 149.2mg",
+            "sodium 1142.7mg. "
+        ],
+        "Cuisine": "Chinese"
+    }
+]

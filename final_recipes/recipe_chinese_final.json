@@ -10,61 +10,61 @@
         "total_time": "10 mins",
         "ingredients": [
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "teaspoons",
                 "ingredient": "vegetable oil",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "tablespoon",
                 "ingredient": "garlic",
                 "comment": "finely chopped "
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "fresh ginger root",
                 "comment": "grated"
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "soy sauce",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "\u2154",
+                "quantity": 0.66,
                 "measurement": "cup",
                 "ingredient": "dark brown sugar",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "pound",
                 "ingredient": "beef flank steak",
                 "comment": "sliced 1/4 inch thick on the diagonal"
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "cornstarch",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "cup",
                 "ingredient": "vegetable oil",
                 "comment": "for frying"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "bunches",
                 "ingredient": "green onions",
                 "comment": "cut in 2-inch lengths"
@@ -99,97 +99,97 @@
         "total_time": "10 mins",
         "ingredients": [
             {
-                "quantity": "1 (8 ounce)",
+                "quantity": 1.0,
                 "measurement": "can",
                 "ingredient": "pineapple",
                 "comment": "chunks, drained (juice reserved)"
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "cornstarch",
                 "comment": ""
             },
             {
-                "quantity": "1\u2009\u00be",
+                "quantity": 1.75,
                 "measurement": "cups",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "\u00be",
+                "quantity": 0.75,
                 "measurement": "cup",
                 "ingredient": "white sugar",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "white vinegar",
                 "comment": "distilled"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "drops",
                 "ingredient": "orange food color",
                 "comment": ""
             },
             {
-                "quantity": "8",
+                "quantity": 8.0,
                 "measurement": "",
                 "ingredient": "skinless, boneless chicken breast halves",
                 "comment": "cut into 1 inch cubes"
             },
             {
-                "quantity": "2\u2009\u00bc",
+                "quantity": 2.25,
                 "measurement": "cups",
                 "ingredient": "self-rising flour",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "vegetable oil",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "cornstarch",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "ground white pepper",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "egg",
                 "comment": ""
             },
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "cups",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "quart",
                 "ingredient": "vegetable oil",
                 "comment": "for frying"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "green",
                 "ingredient": "bell pepper",
                 "comment": "cut into 1 inch pieces"
@@ -223,55 +223,55 @@
         "total_time": "30 mins",
         "ingredients": [
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "pound",
                 "ingredient": "beef top sirloin steak",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "soy sauce",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "white sugar",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "cornstarch",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "ground ginger",
                 "comment": ""
             },
             {
-                "quantity": "3",
+                "quantity": 3.0,
                 "measurement": "tablespoons",
                 "ingredient": "vegetable oil",
                 "comment": "divided"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "red onion",
                 "comment": "cut into 1-inch squares"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "green bell pepper",
                 "comment": "cut into 1-inch squares"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "",
                 "ingredient": "tomatoes",
                 "comment": "cut into wedges"
@@ -305,73 +305,73 @@
         "total_time": "40 mins",
         "ingredients": [
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "tablespoon",
                 "ingredient": "sesame oil",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "onion",
                 "comment": ""
             },
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "pounds",
                 "ingredient": "cooked chicken meat",
                 "comment": "cubed"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "soy sauce",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "",
                 "ingredient": "carrots",
                 "comment": "diced"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "stalks",
                 "ingredient": "celery",
                 "comment": "chopped"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "large",
                 "ingredient": "red bell pepper",
                 "comment": "diced"
             },
             {
-                "quantity": "\u00be",
+                "quantity": 0.75,
                 "measurement": "cup",
                 "ingredient": "fresh pea pods",
                 "comment": "halved"
             },
             {
-                "quantity": "\u00bd large",
+                "quantity": 0.5,
                 "measurement": "",
                 "ingredient": "green bell pepper",
                 "comment": "diced"
             },
             {
-                "quantity": "6",
+                "quantity": 6.0,
                 "measurement": "cups",
                 "ingredient": "cooked white rice",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "",
                 "ingredient": "eggs",
                 "comment": ""
             },
             {
-                "quantity": "\u2153",
+                "quantity": 0.33,
                 "measurement": "cup",
                 "ingredient": "soy sauce",
                 "comment": ""
@@ -404,55 +404,55 @@
         "total_time": "15 mins",
         "ingredients": [
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "egg",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "tablespoon",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "tablespoon",
                 "ingredient": "butter",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "tablespoon",
                 "ingredient": "vegetable oil",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "onion,",
                 "ingredient": "chopped",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "cups",
                 "ingredient": "cooked white rice",
                 "comment": "cold"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "soy sauce",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "ground black pepper",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "cup cooked,",
                 "ingredient": "chicken meat",
                 "comment": "chopped"
@@ -484,73 +484,73 @@
         "total_time": "15 mins",
         "ingredients": [
             {
-                "quantity": "\u2153",
+                "quantity": 0.33,
                 "measurement": "cup",
                 "ingredient": "milk",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "egg",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "pound",
                 "ingredient": "boneless, skinless chicken breasts",
                 "comment": "cut into 1-inch cubes"
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "potato starch",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "all-purpose flour",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "ground black pepper",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "red pepper condiment",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "mayonnaise",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "honey",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "sweet chili sauce",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "hot pepper paste",
                 "comment": ""
@@ -586,127 +586,127 @@
         "total_time": "50 mins",
         "ingredients": [
             {
-                "quantity": "4",
+                "quantity": 4.0,
                 "measurement": "cups",
                 "ingredient": "vegetable oil",
                 "comment": "for frying"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "egg",
                 "comment": ""
             },
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "pounds",
                 "ingredient": "boneless, skinless chicken thighs",
                 "comment": "cut into 1/2 inch cubes"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "white sugar",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "pinch",
                 "ingredient": "white pepper",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "cup",
                 "ingredient": "cornstarch",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "vegetable oil",
                 "comment": ""
             },
             {
-                "quantity": "3",
+                "quantity": 3.0,
                 "measurement": "tablespoons",
                 "ingredient": "green onion",
                 "comment": "chopped"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "clove",
                 "ingredient": "garlic",
                 "comment": "minced"
             },
             {
-                "quantity": "6",
+                "quantity": 6.0,
                 "measurement": "dried",
                 "ingredient": "whole red chilies",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "strip",
                 "ingredient": "orange zest",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "white sugar",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "ground ginger",
                 "comment": ""
             },
             {
-                "quantity": "3",
+                "quantity": 3.0,
                 "measurement": "tablespoons",
                 "ingredient": "chicken broth",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "tablespoon",
                 "ingredient": "rice vinegar",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "soy sauce",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "teaspoons",
                 "ingredient": "sesame oil",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "peanut oil",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "teaspoons",
                 "ingredient": "cornstarch",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "water",
                 "comment": ""
@@ -741,43 +741,43 @@
         "total_time": "20 mins",
         "ingredients": [
             {
-                "quantity": "4",
+                "quantity": 4.0,
                 "measurement": "cups",
                 "ingredient": "chicken broth",
                 "comment": "divided"
             },
             {
-                "quantity": "\u215b",
+                "quantity": 0.12,
                 "measurement": "teaspoon",
                 "ingredient": "ground ginger",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "fresh chives",
                 "comment": "chopped"
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "tablespoons",
                 "ingredient": "cornstarch",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "",
                 "ingredient": "eggs",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "egg yolk",
                 "comment": ""

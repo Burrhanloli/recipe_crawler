@@ -10,97 +10,97 @@
         "total_time": "15 mins",
         "ingredients": [
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cups",
                 "ingredient": "white rice",
                 "comment": ""
             },
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "cups",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "\u2154",
+                "quantity": 0.66,
                 "measurement": "cup",
                 "ingredient": "soy sauce",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "brown sugar",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "cornstarch",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "ginger",
                 "comment": "minced"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "garlic",
                 "comment": "minced"
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "red pepper flakes",
                 "comment": ""
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "ingredient": "skinless, boneless chicken breast halves",
                 "measurement": "",
                 "comment": "thinly sliced"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "sesame oil",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "green bell pepper",
                 "comment": "cut into matchsticks"
             },
             {
-                "quantity": "1 (8 ounce)",
+                "quantity": 1,
                 "measurement": "can",
                 "ingredient": "sliced water chestnuts",
                 "comment": "drained"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "head",
                 "ingredient": "broccoli",
                 "comment": "broken into florets"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "sliced carrots",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "onion",
                 "comment": "cut into large chunks"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "sesame oil",
                 "comment": ""
@@ -133,68 +133,68 @@
         "total_time": "45 mins",
         "ingredients": [
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cups",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cups",
                 "ingredient": "instant rice",
                 "comment": "uncooked"
             },
             {
-                "quantity": "2 (10 ounce)",
+                "quantity": 2,
                 "measurement": "cans",
                 "ingredient": "chicken",
                 "comment": "chunk and drained"
             },
             {
-                "quantity": "1 (10.75 ounce)",
+                "quantity": 1,
                 "measurement": "can",
                 "ingredient": "cream of mushroom soup",
                 "comment": "condensed"
             },
             {
-                "quantity": "1 (10.75 ounce)",
+                "quantity": 1,
                 "measurement": "can",
                 "ingredient": "cream of chicken soup",
                 "comment": "condensed"
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "butter",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "milk",
                 "comment": ""
             },
             {
-                "quantity": "1 (16 ounce)",
+                "quantity": 1,
                 "measurement": "package",
                 "ingredient": "broccoli",
                 "comment": "frozen chopped"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "small",
                 "ingredient": "white onion",
                 "comment": "chopped"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "pound",
                 "ingredient": "cheese food",
                 "comment": "processed"
             }
         ],
         "instruction": [
-            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Preheat oven to 350 degrees F .",
             "In a medium saucepan, bring the water to a boil. Mix in the instant rice, cover, and remove from heat. Let stand 5 minutes.",
             "In a 9x13 inch baking dish, mix the prepared rice, chicken, cream of mushroom soup, cream of chicken soup, butter, milk, broccoli, onion, and processed cheese.",
             "Bake in the preheated oven for 30 to 35 minutes, or until cheese is melted. Stir halfway through cooking to help cheese melt evenly."
@@ -220,50 +220,50 @@
         "total_time": "1 hr 10 mins",
         "ingredients": [
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "tablespoons",
                 "ingredient": "olive oil",
                 "comment": ""
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "cloves",
                 "ingredient": "garlic",
                 "comment": "pressed"
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "teaspoons",
                 "ingredient": "chili powder",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "garlic powder",
                 "comment": ""
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "black pepper",
                 "comment": "to taste"
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "salt",
                 "comment": "to taste"
             },
             {
-                "quantity": "10",
+                "quantity": 10,
                 "measurement": "",
                 "ingredient": "chicken wings",
                 "comment": ""
             }
         ],
         "instruction": [
-            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Preheat the oven to 375 degrees F .",
             "Combine the olive oil, garlic, chili powder, garlic powder, salt, and pepper in a large, resealable bag; seal and shake to combine. Add the chicken wings; reseal and shake to coat. Arrange the chicken wings on a baking sheet.",
             "Cook the wings in the preheated oven 1 hour, or until crisp and cooked through."
         ],
@@ -280,7 +280,7 @@
     {
         "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2017%2F04%2F3325822_-Indian-Chicken-Curry-Murgh-Kari-Photo-by-MelissaZ.jpg",
         "serving": 6,
-        "title": "Indian Chicken Curry (Murgh Kari)",
+        "title": "Indian Chicken Curry ",
         "desc": "This is a really good recipe for spicy Indian chicken curry. It's pretty easy to make and tastes really good!",
         "author": "Ayshren",
         "prep_time": "20 mins",
@@ -288,121 +288,121 @@
         "total_time": "1 hr",
         "ingredients": [
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "pounds",
                 "ingredient": "skinless, boneless chicken breast halves",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "teaspoons",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "cooking oil",
                 "comment": ""
             },
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "cups",
                 "ingredient": "onion",
                 "comment": "chopped"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "garlic",
                 "comment": "minced"
             },
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "teaspoons",
                 "ingredient": "ginger root",
                 "comment": "minced"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "curry powder",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "cumin",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "turmeric",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "coriander",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "cayenne pepper",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "1 (15 ounce)",
+                "quantity": 1,
                 "measurement": "can",
                 "ingredient": "tomatoes",
                 "comment": "crushed"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "plain yogurt",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "cilantro",
                 "comment": "chopped"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "garam masala",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "cilantro",
                 "comment": "chopped"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "lemon juice",
                 "comment": ""
@@ -412,7 +412,7 @@
             "Sprinkle the chicken breasts with 2 teaspoons salt.",
             "Heat the oil in a large skillet over high heat; partially cook the chicken in the hot oil in batches until completely browned. Transfer the browned chicken breasts to a plate and set aside.",
             "Reduce the heat under the skillet to medium-high; add the onion, garlic, and ginger to the oil remaining in the skillet and cook and stir until the onion turns translucent, about 8 minutes. Stir the curry powder, cumin, turmeric, coriander, cayenne, and 1 tablespoon of water into the onion mixture; allow to heat together for about 1 minute while stirring. Mix the tomatoes, yogurt, 1 tablespoon chopped cilantro, and 1 teaspoon salt into the mixture. Return the chicken breast to the skillet along with any juices on the plate. Pour 1/2 cup water into the mixture; bring to a boil, turning the chicken to coat with the sauce. Sprinkle the garam masala and 1 tablespoon cilantro over the chicken.",
-            "Cover the skillet and simmer until the chicken breasts are no longer pink in the center and the juices run clear, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Sprinkle with lemon juice to serve."
+            "Cover the skillet and simmer until the chicken breasts are no longer pink in the center and the juices run clear, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F . Sprinkle with lemon juice to serve."
         ],
         "rating": "4.75",
         "nutrition": [
@@ -428,68 +428,68 @@
         "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F46458.jpg",
         "serving": 8,
         "title": "Roast Sticky Chicken-Rotisserie Style",
-        "desc": "Ever wish you could get that restaurant-style rotisserie chicken at home? Well, with minimal preparation and about 5 hours' cooking time (great for the weekends!) you can! I don't bother to baste the bird, though some like to for the first hour. The pan juices always caramelize at the bottom, and the chicken will turn golden brown...fall-off-the-bone good!",
+        "desc": "Ever wish you could get that restaurant-style rotisserie chicken at home? Well, with minimal preparation and about 5 hours' cooking time  you can! I don't bother to baste the bird, though some like to for the first hour. The pan juices always caramelize at the bottom, and the chicken will turn golden brown...fall-off-the-bone good!",
         "author": "Sue Rogers",
         "prep_time": "10 mins",
         "cook_time": "5 hrs",
         "total_time": "4 hrs",
         "ingredients": [
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "teaspoons",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "teaspoons",
                 "ingredient": "paprika",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "onion powder",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "dried thyme",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "white pepper",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "cayenne pepper",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "garlic powder",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "",
                 "ingredient": "onions",
                 "comment": "quartered"
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "",
                 "ingredient": "whole chickens",
                 "comment": ""
@@ -497,8 +497,8 @@
         ],
         "instruction": [
             "In a small bowl, mix together salt, paprika, onion powder, thyme, white pepper, black pepper, cayenne pepper, and garlic powder. Remove and discard giblets from chicken. Rinse chicken cavity, and pat dry with paper towel. Rub each chicken inside and out with spice mixture. Place 1 onion into the cavity of each chicken. Place chickens in a resealable bag or double wrap with plastic wrap. Refrigerate overnight, or at least 4 to 6 hours.",
-            "Preheat oven to 250 degrees F (120 degrees C).",
-            "Place chickens in a roasting pan. Bake uncovered for 5 hours, to a minimum internal temperature of 180 degrees F (85 degrees C). Let the chickens stand for 10 minutes before carving."
+            "Preheat oven to 250 degrees F .",
+            "Place chickens in a roasting pan. Bake uncovered for 5 hours, to a minimum internal temperature of 180 degrees F . Let the chickens stand for 10 minutes before carving."
         ],
         "rating": "4.69",
         "nutrition": [
@@ -521,55 +521,55 @@
         "total_time": "25 mins",
         "ingredients": [
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "cups",
                 "ingredient": "chicken broth",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cups",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "",
                 "ingredient": "boneless chicken breast halves",
                 "comment": "cooked, shredded"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "package",
                 "ingredient": "quick cooking long grain and wild rice",
                 "comment": "seasoning packet"
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "\u00be",
+                "quantity": 0.75,
                 "measurement": "cup",
                 "ingredient": "all-purpose flour",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "butter",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cups",
                 "ingredient": "heavy cream",
                 "comment": ""
@@ -601,31 +601,31 @@
         "total_time": "6 hrs 10 mins",
         "ingredients": [
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "",
                 "ingredient": "skinless, boneless chicken breast halves",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "tablespoons",
                 "ingredient": "butter",
                 "comment": ""
             },
             {
-                "quantity": "2 (10.75 ounce)",
+                "quantity": 2,
                 "measurement": "cans",
                 "ingredient": "cream of chicken soup",
                 "comment": "condensed"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "onion",
                 "comment": "finely diced"
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "packages",
                 "ingredient": "biscuit dough",
                 "comment": "refrigerated, torn into pieces"
@@ -656,50 +656,50 @@
         "total_time": "45 mins",
         "ingredients": [
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "tablespoons",
                 "ingredient": "olive oil",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "clove",
                 "ingredient": "garlic",
                 "comment": "minced"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "bread crumbs",
                 "comment": "dry"
             },
             {
-                "quantity": "\u2154",
+                "quantity": 0.66,
                 "measurement": "cup",
                 "ingredient": "Parmesan cheese",
                 "comment": "grated"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "dried basil leaves",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "6",
+                "quantity": 6,
                 "measurement": "",
                 "ingredient": "skinless, boneless chicken breast halves",
                 "comment": ""
             }
         ],
         "instruction": [
-            "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish.",
+            "Preheat oven to 350 degrees F . Lightly grease a 9x13 inch baking dish.",
             "In a bowl, blend the olive oil and garlic. In a separate bowl, mix the bread crumbs, Parmesan cheese, basil, and pepper. Dip each chicken breast in the oil mixture, then in the bread crumb mixture. Arrange the coated chicken breasts in the prepared baking dish, and top with any remaining bread crumb mixture.",
             "Bake 30 minutes in the preheated oven, or until chicken is no longer pink and juices run clear."
         ],
@@ -724,49 +724,49 @@
         "total_time": "25 mins",
         "ingredients": [
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "balsamic vinegar",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "honey",
                 "comment": ""
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "",
                 "ingredient": "large tomatoes",
                 "comment": "cut into 1/2-inch slices"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "package",
                 "ingredient": "mozzarella cheese",
                 "comment": "cut into 1/4-inch slices"
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "basil leaves",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "olive oil",
                 "comment": "extra-virgin"
@@ -797,55 +797,55 @@
         "total_time": "1 hr",
         "ingredients": [
             {
-                "quantity": "6",
+                "quantity": 6,
                 "measurement": "tablespoons",
                 "ingredient": "onion",
                 "comment": "chopped"
             },
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "tablespoons",
                 "ingredient": "margarine",
                 "comment": ""
             },
             {
-                "quantity": "6",
+                "quantity": 6,
                 "measurement": "cups",
                 "ingredient": "butternut squash",
                 "comment": "peeled and cubed"
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "cups",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "cubes",
                 "ingredient": "chicken bouillon",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "dried marjoram",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "\u215b",
+                "quantity": 0.12,
                 "measurement": "teaspoon",
                 "ingredient": "cayenne pepper",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "packages",
                 "ingredient": "cream cheese",
                 "comment": ""
@@ -876,91 +876,91 @@
         "total_time": "40 mins",
         "ingredients": [
             {
-                "quantity": "4 (1/2 pound)",
+                "quantity": 4,
                 "measurement": "",
                 "ingredient": "beef cube steaks",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cups",
                 "ingredient": "all-purpose flour",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "teaspoons",
                 "ingredient": "baking powder",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "baking soda",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "\u00be",
+                "quantity": 0.75,
                 "measurement": "teaspoon",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "cups",
                 "ingredient": "buttermilk",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "egg",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "hot pepper sauce",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cloves",
                 "ingredient": "garlic, minced",
                 "comment": ""
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "cups",
                 "ingredient": "vegetable shortening",
                 "comment": "for deep frying"
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "all-purpose flour",
                 "comment": ""
             },
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "cups",
                 "ingredient": "milk",
                 "comment": ""
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "black pepper",
                 "comment": "to taste"
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "salt",
                 "comment": "to taste"
@@ -968,7 +968,7 @@
         ],
         "instruction": [
             "Pound the steaks to about 1/4-inch thickness. Place 2 cups of flour in a shallow bowl. Stir together the baking powder, baking soda, pepper, and salt in a separate shallow bowl; stir in the buttermilk, egg, Tabasco Sauce, and garlic. Dredge each steak first in the flour, then in the batter, and again in the flour. Pat the flour onto the surface of each steak so they are completely coated with dry flour.",
-            "Heat the shortening in a deep cast-iron skillet to 325 degrees F (165 degrees C). Fry the steaks until evenly golden brown, 3 to 5 minutes per side. Place fried steaks on a plate with paper towels to drain. Drain the fat from the skillet, reserving 1/4 cup of the liquid and as much of the solid remnants as possible.",
+            "Heat the shortening in a deep cast-iron skillet to 325 degrees F . Fry the steaks until evenly golden brown, 3 to 5 minutes per side. Place fried steaks on a plate with paper towels to drain. Drain the fat from the skillet, reserving 1/4 cup of the liquid and as much of the solid remnants as possible.",
             "Return the skillet to medium-low heat with the reserved oil. Whisk the remaining flour into the oil. Scrape the bottom of the pan with a spatula to release solids into the gravy. Stir in the milk, raise the heat to medium, and bring the gravy to a simmer, cook until thick, 6 to 7 minutes. Season with kosher salt and pepper. Spoon the gravy over the steaks to serve."
         ],
         "rating": "4.44",
@@ -992,67 +992,67 @@
         "total_time": "12 hrs 15 mins",
         "ingredients": [
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "cups",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "dried oregano",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "dried basil",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "onion salt",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "dried parsley",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "garlic powder",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "bay leaf",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "package",
                 "ingredient": "salad dressing",
                 "comment": "Italian-style"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "rump",
                 "ingredient": "roast",
                 "comment": ""
@@ -1084,95 +1084,95 @@
         "total_time": "1 hr 25 mins",
         "ingredients": [
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "butter",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "onion",
                 "comment": "minced"
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cloves",
                 "ingredient": "garlic",
                 "comment": "minced"
             },
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "teaspoons",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "teaspoons",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "pounds e",
                 "ingredient": "beef",
                 "comment": "xtra-lean"
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "slices",
                 "ingredient": "bread",
                 "comment": "toasted and crumbled"
             },
             {
-                "quantity": "7 buttery",
+                "quantity": 7,
                 "measurement": "",
                 "ingredient": "crackers",
                 "comment": "round"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "egg",
                 "comment": "lightly beaten"
             },
             {
-                "quantity": "3\u2009\u00bd",
+                "quantity": 3.5,
                 "measurement": "tablespoons",
                 "ingredient": "sour cream",
                 "comment": ""
             },
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "tablespoons",
                 "ingredient": "Worcestershire sauce",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "can",
                 "ingredient": "tomato sauce, divided",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "milk",
                 "comment": ""
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "tablespoons",
                 "ingredient": "ketchup",
                 "comment": ""
             }
         ],
         "instruction": [
-            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Preheat oven to 350 degrees F .",
             "Melt the butter in a skillet over medium heat, and cook the onion and garlic 5 minutes, until onion is tender. Remove from heat, and season with salt and pepper.",
             "In a large bowl, mix the onion and garlic, beef, crumbled bread, crushed crackers, egg, sour cream, Worcestershire sauce, and 1/2 can tomato sauce. Gradually stir in the milk 1 teaspoon at a time until mixture is moist, but not soggy. Transfer the mixture to a 5x9 inch loaf pan.",
-            "Bake uncovered in the preheated oven 40 minutes. Increase oven temperature to 400 degrees F (200 degrees C), and continue baking 15 minutes, to an internal temperature of 160 degrees F (70 degrees C).",
+            "Bake uncovered in the preheated oven 40 minutes. Increase oven temperature to 400 degrees F .",
             "In a small bowl, mix the remaining tomato sauce and ketchup. Pour over the top of the meatloaf, and continue baking 10 minutes."
         ],
         "rating": "4.52",
@@ -1196,67 +1196,67 @@
         "total_time": "40 mins",
         "ingredients": [
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "yellow cornmeal",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "all-purpose flour",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "\u215b",
+                "quantity": 0.12,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "white sugar",
                 "comment": ""
             },
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "teaspoons",
                 "ingredient": "baking powder",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "egg",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "milk",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "quart",
                 "ingredient": "vegetable oil for frying",
                 "comment": ""
             },
             {
-                "quantity": "2 (16 ounce)",
+                "quantity": 2,
                 "measurement": "packages",
                 "ingredient": "beef frankfurters",
                 "comment": ""
             },
             {
-                "quantity": "16",
+                "quantity": 16,
                 "measurement": "wooden",
                 "ingredient": "skewers",
                 "comment": ""
@@ -1281,69 +1281,69 @@
         "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2020%2F03%2F23%2Fimage-1-1.jpg",
         "serving": 6,
         "title": "Mamaw's Chicken and Rice Casserole",
-        "desc": "I grew up on this recipe, my Grandmother got it from a lady from church at a pot luck a long time ago! She passed it down to my mom and it's always been a family favorite. Quick and easy for school nights, and the leftovers are just as good! You can use less butter on top of course, my Momma and Mamaw always put the full stick on top (gotta love Southern ladies and their butter!)",
+        "desc": "I grew up on this recipe, my Grandmother got it from a lady from church at a pot luck a long time ago! She passed it down to my mom and it's always been a family favorite. Quick and easy for school nights, and the leftovers are just as good! You can use less butter on top of course, my Momma and Mamaw always put the full stick on top ",
         "author": "katiefbenham",
         "prep_time": "10 mins",
         "cook_time": "1 hr",
         "total_time": "10 mins",
         "ingredients": [
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "",
                 "ingredient": "chicken breasts",
                 "comment": "cut into cubes"
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cups",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cups",
                 "ingredient": "instant white rice",
                 "comment": ""
             },
             {
-                "quantity": "1 (10.75 ounce)",
+                "quantity": 1,
                 "measurement": "can",
                 "ingredient": "cream of chicken soup",
                 "comment": ""
             },
             {
-                "quantity": "1 (10.75 ounce)",
+                "quantity": 1,
                 "measurement": "can",
                 "ingredient": "cream of celery soup",
                 "comment": ""
             },
             {
-                "quantity": "1 (10.75 ounce)",
+                "quantity": 1,
                 "measurement": "can",
                 "ingredient": "cream of mushroom soup",
                 "comment": ""
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "black pepper",
                 "comment": "to taste"
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "salt",
                 "comment": "to taste"
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "butter",
                 "comment": "sliced into pats"
             }
         ],
         "instruction": [
-            "Preheat oven to 400 degrees F (200 degrees C). Grease sides and bottom of a casserole dish.",
+            "Preheat oven to 400 degrees F . Grease sides and bottom of a casserole dish.",
             "Stir chicken, water, rice, cream of chicken soup, cream of celery soup, and cream of mushroom soup together in the prepared casserole dish; season with salt and pepper. Arrange butter evenly over the top of the chicken mixture.",
             "Bake in preheated oven until the rice is tender and the chicken is cooked through, 1 hour to 75 minutes. Cool 15 minutes before serving."
         ],
@@ -1368,109 +1368,109 @@
         "total_time": "2 hrs 15 mins",
         "ingredients": [
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "buttermilk",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "teaspoons",
                 "ingredient": "kosher salt",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "dash",
                 "ingredient": "hot sauce",
                 "comment": "or to taste"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "ranch dressing mix",
                 "comment": ""
             },
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "",
                 "ingredient": "skinless, boneless chicken breast halves",
                 "comment": ""
             },
             {
-                "quantity": "1\u2009\u2153",
+                "quantity": 1.33,
                 "measurement": "cups",
                 "ingredient": "all-purpose flour",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "tablespoons",
                 "ingredient": "cornstarch",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "teaspoons",
                 "ingredient": "kosher salt",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "teaspoons",
-                "ingredient": "cayenne pepper (Optional)",
+                "ingredient": "cayenne pepper ",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
-                "ingredient": "ranch dressing mix (such as Hidden Valley Ranch\u00ae)",
+                "ingredient": "ranch dressing mix ",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "ingredient": "large egg",
                 "measurement": "",
                 "comment": "beaten"
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "buttermilk",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "milk",
                 "comment": ""
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "canola oil for frying",
                 "comment": "to taste"
             },
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "",
                 "ingredient": "hamburger buns",
                 "comment": "toasted and buttered"
             },
             {
-                "quantity": "6",
+                "quantity": 6,
                 "measurement": "tablespoons",
                 "ingredient": "mayonnaise",
                 "comment": ""
             },
             {
-                "quantity": "12",
+                "quantity": 12,
                 "measurement": "",
                 "ingredient": "dill pickle",
                 "comment": "slices"
@@ -1481,7 +1481,7 @@
             "Meanwhile, make the breading: Mix flour, cornstarch, salt, pepper, cayenne, and ranch dressing mix together in a shallow dish.",
             "Make the wash: Whisk egg, buttermilk, and milk together in another bowl until combined.",
             "Use a fork to pull chicken from marinade, letting any excess drip off. Dip into the breading to coat both sides; shake off any excess. Dip into egg wash mixture to saturate surface; return to breading to coat, shake off excess, and repeat once more. Let sit on a wire rack to dry, at least 15 minutes.",
-            "Heat oil in a deep-fryer to between 350 degrees F (175 degrees C) and 375 degrees F (190 degrees C).",
+            "Heat oil in a deep-fryer to between 350 degrees F .",
             "Fry chicken breasts in the hot oil until golden, crispy, and no longer pink in the centers, 4 to 5 minutes, flipping halfway through. Transfer to a plate topped with crinkled up aluminum foil to prevent bottoms from getting soggy.",
             "Spread mayonnaise over hamburger bun halves. Stuff with pickles and chicken."
         ],
@@ -1506,46 +1506,46 @@
         "total_time": "1 hr 15 mins",
         "ingredients": [
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "whole chicken",
                 "comment": "cut into 8 pieces"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "paprika",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "garlic powder",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "dried oregano",
                 "comment": ""
             }
         ],
         "instruction": [
-            "Preheat oven to 425 degrees F (220 degrees C). Grease a 9x13-inch pan with cooking spray.",
+            "Preheat oven to 425 degrees F . Grease a 9x13-inch pan with cooking spray.",
             "Arrange chicken pieces in the baking pan. Sprinkle salt, pepper, paprika, garlic powder, and oregano over both sides.",
-            "Roast in the preheated oven until chicken is browned and the juices run clear, about 1 hour. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C)."
+            "Roast in the preheated oven until chicken is browned and the juices run clear, about 1 hour. An instant-read thermometer inserted near the bone should read 165 degrees F ."
         ],
         "rating": "4.61",
         "nutrition": [
@@ -1560,7 +1560,7 @@
     {
         "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2019%2F12%2F972459_egg-drop-soup-better-than-restaurant-quality_photo-by-naples34102.jpg",
         "serving": 1,
-        "title": "Egg Drop Soup (Better than Restaurant Quality!)",
+        "title": "Egg Drop Soup ",
         "desc": "After many many trips to different Chinese restaurants looking for a good bowl of egg drop soup, I decided to take it upon myself to create what I feel is the ultimate in egg drop soup. I hope you enjoy it as much as I do!",
         "author": "Darren",
         "prep_time": "5 mins",
@@ -1568,61 +1568,61 @@
         "total_time": "10 mins",
         "ingredients": [
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "chicken broth",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "soy sauce",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "sesame oil",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "cornstarch",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "teaspoons",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "egg",
                 "comment": "beaten"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "drop",
                 "ingredient": "yellow food coloring",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "chives",
                 "comment": "chopped"
             },
             {
-                "quantity": "\u215b",
+                "quantity": 0.12,
                 "measurement": "teaspoon",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "white pepper",
                 "comment": ""
@@ -1652,49 +1652,49 @@
         "total_time": "35 mins",
         "ingredients": [
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "cups",
                 "ingredient": "tomatoes",
                 "comment": "chopped"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "slice",
                 "ingredient": "onion",
                 "comment": ""
             },
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "cloves",
                 "ingredient": "garlic",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cups",
                 "ingredient": "chicken broth",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "tablespoons",
                 "ingredient": "butter",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "tablespoons",
                 "ingredient": "all-purpose flour",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "teaspoons",
                 "ingredient": "white sugar",
                 "comment": ""
@@ -1725,19 +1725,19 @@
         "total_time": "20 mins",
         "ingredients": [
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "slices",
                 "ingredient": "white bread",
                 "comment": ""
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "tablespoons",
                 "ingredient": "butter",
                 "comment": "divided"
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "slices",
                 "ingredient": "Cheddar cheese",
                 "comment": ""
@@ -1767,61 +1767,61 @@
         "total_time": "30 mins",
         "ingredients": [
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "pound",
                 "ingredient": "beef",
                 "comment": ""
             },
             {
-                "quantity": "\u2153",
+                "quantity": 0.33,
                 "measurement": "cup",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd (10 ounce)",
+                "quantity": 0.5,
                 "measurement": "can",
                 "ingredient": "tomato sauce",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "ketchup",
                 "comment": ""
             },
             {
-                "quantity": "2\u2009\u00bd",
+                "quantity": 2.5,
                 "measurement": "teaspoons",
                 "ingredient": "chili powder",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "white sugar",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "onion powder",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "dash",
                 "ingredient": "Worcestershire sauce",
                 "comment": ""
@@ -1851,55 +1851,55 @@
         "total_time": "2 hrs 15 mins",
         "ingredients": [
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "white vinegar",
                 "comment": "distilled"
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "vegetable oil",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "sugar",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "teaspoons",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "black pepper",
                 "comment": "fresh, coarsely"
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "",
                 "ingredient": "cucumbers",
                 "comment": "peeled and sliced 1/4-inch thick"
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "",
                 "ingredient": "tomatoes",
                 "comment": "cut into wedges"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "onion",
                 "comment": "sliced and separated into rings"
@@ -1929,61 +1929,61 @@
         "total_time": "1 hr",
         "ingredients": [
             {
-                "quantity": "5",
+                "quantity": 5,
                 "measurement": "",
                 "ingredient": "potatoes",
                 "comment": ""
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "",
                 "ingredient": "eggs",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "celery",
                 "comment": "chopped"
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "onion",
                 "comment": "chopped"
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "pickle relish",
                 "comment": "sugarsweet"
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "garlic salt",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "celery salt",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "prepared mustard",
                 "comment": ""
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "black pepper",
                 "comment": "to taste"
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "mayonnaise",
                 "comment": ""
@@ -1998,7 +1998,7 @@
         "nutrition": [
             "206 calories",
             "protein 5.5g",
-            "carbohydrates 30.5g",
+            "carbohydrates 3.5g",
             "fat 7.6g",
             "cholesterol 72.4mg",
             "sodium 334.7mg."
@@ -2015,37 +2015,37 @@
         "total_time": "10 mins",
         "ingredients": [
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "mayonnaise",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "lemon juice",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cups",
                 "ingredient": "chicken meat",
                 "comment": "chopped, cooked"
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "almonds",
                 "comment": "blanched slivered"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "stalk",
                 "ingredient": "celery",
                 "comment": "slivered"
@@ -2076,73 +2076,73 @@
         "total_time": "4 hrs",
         "ingredients": [
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "cups",
                 "ingredient": "elbow macaroni",
                 "comment": "uncooked"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "mayonnaise",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "distilled white vinegar",
                 "comment": ""
             },
             {
-                "quantity": "\u2154",
+                "quantity": 0.66,
                 "measurement": "cup",
                 "ingredient": "white sugar",
                 "comment": ""
             },
             {
-                "quantity": "2\u2009\u00bd",
+                "quantity": 2.5,
                 "measurement": "tablespoons",
                 "ingredient": "yellow mustard",
                 "comment": "prepared"
             },
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "teaspoons",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "large",
                 "ingredient": "onion",
                 "comment": "chopped"
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "stalks",
                 "ingredient": "celery",
                 "comment": "chopped"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "green bell pepper",
                 "comment": "seeded and chopped"
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "grated carrot",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "tablespoons",
                 "ingredient": "pimento peppers",
                 "comment": "chopped"
@@ -2173,49 +2173,49 @@
         "total_time": "13 hrs 20 mins",
         "ingredients": [
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "pound",
                 "ingredient": "tri-colored spiral pasta",
                 "comment": ""
             },
             {
-                "quantity": "6",
+                "quantity": 6,
                 "measurement": "tablespoons",
                 "ingredient": "salad seasoning mix",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "bottle",
                 "ingredient": "Italian-style salad dressing",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cups",
                 "ingredient": "cherry tomatoes",
                 "comment": "diced"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "green bell pepper",
                 "comment": "chopped"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "red bell pepper",
                 "comment": "diced"
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "",
                 "ingredient": "yellow bell pepper",
                 "comment": "chopped"
             },
             {
-                "quantity": "1 (2.25 ounce)",
+                "quantity": 1,
                 "measurement": "can",
                 "ingredient": "black olives",
                 "comment": "chopped"
@@ -2247,80 +2247,80 @@
         "total_time": "5 mins",
         "ingredients": [
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "cups",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "butter",
                 "comment": ""
             },
             {
-                "quantity": "1 (6 ounce)",
+                "quantity": 1,
                 "measurement": "package",
                 "ingredient": "stuffing mix",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "butter",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "onion",
                 "comment": "diced"
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "stalks",
                 "ingredient": "celery",
                 "comment": "diced"
             },
             {
-                "quantity": "1 (10.75 ounce)",
+                "quantity": 1,
                 "measurement": "can",
                 "ingredient": "cream of chicken soup",
                 "comment": ""
             },
             {
-                "quantity": "1 (8 ounce)",
+                "quantity": 1,
                 "measurement": "container",
                 "ingredient": "sour cream",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd (10.5 ounce)",
+                "quantity": 0.5 ,
                 "measurement": "can",
                 "ingredient": "cream of mushroom soup",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "whole cooked rotisserie chicken",
                 "comment": "- skinned, boned, and meat shredded"
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "black pepper",
                 "comment": "to taste"
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "salt",
                 "comment": "to taste"
             }
         ],
         "instruction": [
-            "Preheat oven to 375 degrees F (190 degrees C). Spray a 9x13-inch baking dish with cooking spray.",
+            "Preheat oven to 375 degrees F . Spray a 9x13-inch baking dish with cooking spray.",
             "Bring water and 1/4 cup butter to a boil in a saucepan; stir in stuffing mix. Remove saucepan from heat, cover, and let sit until water is absorbed, about 5 minutes. Fluff stuffing with a fork.",
             "Heat 1 tablespoon butter in a skillet over medium heat; cook and stir onion and celery until softened, 5 to 10 minutes.",
             "Mix cream of chicken soup, sour cream, and cream of mushroom soup together in a bowl.",
@@ -2348,46 +2348,46 @@
         "total_time": "15 mins",
         "ingredients": [
             {
-                "quantity": "1 (3 pound)",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "whole chicken",
                 "comment": "giblets removed"
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "black pepper",
                 "comment": "to taste"
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "salt",
                 "comment": "to taste"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "onion powder",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "margarine",
                 "comment": "divided"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "stalk",
                 "ingredient": "celery",
                 "comment": "leaves removed"
             }
         ],
         "instruction": [
-            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Preheat oven to 350 degrees F .",
             "Place chicken in a roasting pan, and season generously inside and out with salt and pepper. Sprinkle inside and out with onion powder. Place 3 tablespoons margarine in the chicken cavity. Arrange dollops of the remaining margarine around the chicken's exterior. Cut the celery into 3 or 4 pieces, and place in the chicken cavity.",
-            "Bake uncovered 1 hour and 15 minutes in the preheated oven, to a minimum internal temperature of 180 degrees F (82 degrees C). Remove from heat, and baste with melted margarine and drippings. Cover with aluminum foil, and allow to rest about 30 minutes before serving."
+            "Bake uncovered 1 hour and 15 minutes in the preheated oven, to a minimum internal temperature of 180 degrees F . Remove from heat, and baste with melted margarine and drippings. Cover with aluminum foil, and allow to rest about 30 minutes before serving."
         ],
         "rating": "4.71",
         "nutrition": [
@@ -2410,32 +2410,32 @@
         "total_time": "1 hr",
         "ingredients": [
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "pounds",
                 "ingredient": "Brussels sprouts",
                 "comment": "ends trimmed and yellow leaves removed"
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "tablespoons",
                 "ingredient": "olive oil",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "kosher salt",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             }
         ],
         "instruction": [
-            "Preheat oven to 400 degrees F (205 degrees C).",
+            "Preheat oven to 400 degrees F .",
             "Place trimmed Brussels sprouts, olive oil, kosher salt, and pepper in a large resealable plastic bag. Seal tightly, and shake to coat. Pour onto a baking sheet, and place on center oven rack.",
             "Roast in the preheated oven for 30 to 45 minutes, shaking pan every 5 to 7 minutes for even browning. Reduce heat when necessary to prevent burning. Brussels sprouts should be darkest brown, almost black, when done. Adjust seasoning with kosher salt, if necessary. Serve immediately."
         ],
@@ -2459,49 +2459,49 @@
         "total_time": "11 mins",
         "ingredients": [
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "soy sauce",
                 "comment": ""
             },
             {
-                "quantity": "5",
+                "quantity": 5,
                 "measurement": "teaspoons",
                 "ingredient": "packed brown sugar",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "tablespoon",
                 "ingredient": "honey",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "ginger",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "garlic powder",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "tablespoons",
                 "ingredient": "cornstarch",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "cold water",
                 "comment": ""
@@ -2530,25 +2530,25 @@
         "total_time": "30 mins",
         "ingredients": [
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "",
                 "ingredient": "apples",
                 "comment": "peeled, cored and chopped"
             },
             {
-                "quantity": "\u00be",
+                "quantity": 0.75,
                 "measurement": "cup",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "white sugar",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "cinnamon",
                 "comment": ""
@@ -2577,31 +2577,31 @@
         "total_time": "35 mins",
         "ingredients": [
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "pounds ",
                 "ingredient": "potatoes",
                 "comment": "baked,peeled and quartered"
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "tablespoons",
                 "ingredient": "butter",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "milk",
                 "comment": ""
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "ground black pepper",
                 "comment": "to taste"
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "salt",
                 "comment": "to taste"
@@ -2632,43 +2632,43 @@
         "total_time": "8 hrs 15 mins",
         "ingredients": [
             {
-                "quantity": "1\u2009\u2154",
+                "quantity": 1.66,
                 "measurement": "cups",
                 "ingredient": "vegetable oil",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "garlic powder",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "onion powder",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "2 (1 ounce)",
+                "quantity": 2,
                 "measurement": "envelopes",
                 "ingredient": "ranch dressing mix",
                 "comment": ""
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "tablespoons",
                 "ingredient": "red pepper flakes",
                 "comment": "crushed"
             },
             {
-                "quantity": "1 (16.5 ounce)",
+                "quantity": 1,
                 "measurement": "package",
                 "ingredient": "multigrain saltine crackers",
                 "comment": ""
@@ -2697,43 +2697,43 @@
         "total_time": "45 mins",
         "ingredients": [
             {
-                "quantity": "2 (10 ounce)",
+                "quantity": 2,
                 "measurement": "cans",
                 "ingredient": "chunk chicken",
                 "comment": "drained"
             },
             {
-                "quantity": "2 (8 ounce)",
+                "quantity": 2,
                 "measurement": "packages",
                 "ingredient": "cream cheese",
                 "comment": "softened"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "Ranch dressing",
                 "comment": ""
             },
             {
-                "quantity": "\u00be",
+                "quantity": 0.75,
                 "measurement": "cup",
                 "ingredient": "pepper sauce",
                 "comment": ""
             },
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "cups",
                 "ingredient": "Cheddar cheese",
                 "comment": "shredded"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "bunch",
                 "ingredient": "celerys",
                 "comment": "cleaned and cut into 4 inch piece"
             },
             {
-                "quantity": "1 (8 ounce)",
+                "quantity": 1,
                 "measurement": "box",
                 "ingredient": "chicken-flavored crackers",
                 "comment": ""
@@ -2763,73 +2763,73 @@
         "total_time": "1 hr 5 mins",
         "ingredients": [
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "unsalted butter",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "tablespoons",
                 "ingredient": "olive oil",
                 "comment": ""
             },
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "cups",
                 "ingredient": "onions",
                 "comment": "sliced"
             },
             {
-                "quantity": "4 (10.5 ounce)",
+                "quantity": 4,
                 "measurement": "cans",
                 "ingredient": "beef broth",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "tablespoons",
                 "ingredient": "sherry",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "dried thyme",
                 "comment": ""
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "ground black pepper",
                 "comment": "to taste"
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "salt",
                 "comment": "to taste"
             },
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "slices",
                 "ingredient": "French bread",
                 "comment": ""
             },
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "slices",
                 "ingredient": "provolone cheese",
                 "comment": "slices"
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "slices",
                 "ingredient": "Swiss cheese",
                 "comment": "diced"
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "Parmesan cheese",
                 "comment": "grated"
@@ -2839,7 +2839,7 @@
             "Melt butter with olive oil in an 8 quart stock pot on medium heat. Add onions and continually stir until tender and translucent. Do not brown the onions.",
             "Add beef broth, sherry and thyme. Season with salt and pepper, and simmer for 30 minutes.",
             "Heat the oven broiler.",
-            "Ladle soup into oven safe serving bowls and place one slice of bread on top of each (bread may be broken into pieces if you prefer). Layer each slice of bread with a slice of provolone, 1/2 slice diced Swiss and 1 tablespoon Parmesan cheese. Place bowls on cookie sheet and broil in the preheated oven until cheese bubbles and browns slightly."
+            "Ladle soup into oven safe serving bowls and place one slice of bread on top of each . Layer each slice of bread with a slice of provolone, 1/2 slice diced Swiss and 1 tablespoon Parmesan cheese. Place bowls on cookie sheet and broil in the preheated oven until cheese bubbles and browns slightly."
         ],
         "rating": "4.58",
         "nutrition": [
@@ -2862,61 +2862,61 @@
         "total_time": "45 mins",
         "ingredients": [
             {
-                "quantity": "5",
+                "quantity": 5,
                 "measurement": "",
                 "ingredient": "carrots",
                 "comment": "chopped"
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "",
                 "ingredient": "onions",
                 "comment": "chopped"
             },
             {
-                "quantity": "2 (16 ounce)",
+                "quantity": 2,
                 "measurement": "cans",
                 "ingredient": "tomatoes",
                 "comment": "peeled, with liquid"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "large",
                 "ingredient": "head cabbage",
                 "comment": "chopped"
             },
             {
-                "quantity": "1 (1 ounce)",
+                "quantity": 1,
                 "measurement": "envelope",
                 "ingredient": "onion soup mix",
                 "comment": ""
             },
             {
-                "quantity": "1 (15 ounce)",
+                "quantity": 1,
                 "measurement": "can",
                 "ingredient": "cut green beans",
                 "comment": "drained"
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "quarts",
                 "ingredient": "tomato juice",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "",
                 "ingredient": "green bell peppers",
                 "comment": "diced"
             },
             {
-                "quantity": "10",
+                "quantity": 10,
                 "measurement": "",
                 "ingredient": "stalks celery",
                 "comment": "chopped"
             },
             {
-                "quantity": "1 (14 ounce)",
+                "quantity": 1,
                 "measurement": "can",
                 "ingredient": "beef broth",
                 "comment": ""
@@ -2930,7 +2930,7 @@
             "90 calories",
             "protein 4g",
             "carbohydrates 20.7g",
-            "fat 0.5g",
+            "fat .5g",
             "sodium 483.1mg."
         ]
     },
@@ -2938,56 +2938,56 @@
         "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2021%2F04%2F22%2F13313_BestCreamofBroccoliSoup_ArMag.jpg",
         "serving": 6,
         "title": "Best Cream Of Broccoli Soup",
-        "desc": "This recipe is thick and flavorful. It is simple, delicious, and quick to make, enjoy (I know you will).",
+        "desc": "This recipe is thick and flavorful. It is simple, delicious, and quick to make, enjoy .",
         "author": "Jessie A.",
         "prep_time": "10 mins",
         "cook_time": "25 mins",
         "total_time": "35 mins",
         "ingredients": [
             {
-                "quantity": "5",
+                "quantity": 5,
                 "measurement": "tablespoons",
                 "ingredient": "butter",
                 "comment": "divided"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "",
                 "ingredient": "onion",
                 "comment": "chopped"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "stalk",
                 "ingredient": "celery",
                 "comment": "chopped"
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "cups",
                 "ingredient": "chicken broth",
                 "comment": ""
             },
             {
-                "quantity": "8",
+                "quantity": 8,
                 "measurement": "cups",
                 "ingredient": "broccoli florets",
                 "comment": ""
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "tablespoons",
                 "ingredient": "all-purpose flour",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cups",
                 "ingredient": "milk",
                 "comment": ""
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "ground black pepper",
                 "comment": "to taste"
@@ -3019,43 +3019,43 @@
         "total_time": "15 mins",
         "ingredients": [
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "onion",
                 "comment": "chopped"
             },
             {
-                "quantity": "2\u2009\u00bd",
+                "quantity": 2.5,
                 "measurement": "tablespoons",
                 "ingredient": "pesto",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "tablespoons",
                 "ingredient": "olive oil",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "tablespoons",
                 "ingredient": "Parmesan cheese",
                 "comment": "grated"
             },
             {
-                "quantity": "1 (16 ounce)",
+                "quantity": 1,
                 "measurement": "package",
                 "ingredient": "pasta",
                 "comment": ""
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "ground black pepper",
                 "comment": "to taste"
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "salt",
                 "comment": "to taste"
@@ -3087,79 +3087,79 @@
         "total_time": "45 mins",
         "ingredients": [
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cloves",
                 "ingredient": "garlic",
                 "comment": "minced"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "pinch",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "tablespoons",
                 "ingredient": "flat-leaf parsley",
                 "comment": "chopped"
             },
             {
-                "quantity": "6",
+                "quantity": 6,
                 "measurement": "tablespoons",
                 "ingredient": "unsalted butter",
                 "comment": ""
             },
             {
-                "quantity": "4 (8 ounce)",
+                "quantity": 4,
                 "measurement": "",
                 "ingredient": "skinless, boneless chicken breast halves",
                 "comment": "pounded to 1/4-inch thickness"
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "ground black pepper",
                 "comment": "to taste"
             },
             {
-                "quantity": "to taste",
+                "quantity": 1,
                 "measurement": "to taste",
                 "ingredient": "salt",
                 "comment": "to taste"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "cup",
                 "ingredient": "all-purpose flour",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "teaspoons",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "",
                 "ingredient": "eggs",
                 "comment": "beaten"
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cups",
                 "ingredient": "panko bread crumbs",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "pinch",
                 "ingredient": "cayenne pepper",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2,
                 "measurement": "cups",
                 "ingredient": "vegetable oil",
                 "comment": "for frying, or as needed"
@@ -3170,9 +3170,9 @@
             "Season chicken breasts with salt and pepper. Place 1/4 the butter mixture in the center of wider end of each chicken breast. Fold the narrower end of each chicken breast up over the butter to form a tight pocket around the butter. Gather the sides of each chicken breast to the center to form a round ball. The top of the chicken will be smooth and the bottom will be gathered. Tightly wrap each chicken breast ball in plastic wrap, put wrapped breasts on a plate, and chill in the freezer until the gathered bottoms hold together and are slightly firm, about 30 minutes.",
             "Whisk flour and 2 teaspoons salt together in a shallow bowl. Whisk eggs together in another shallow bowl. Pour panko bread crumbs into another bowl.",
             "Remove chicken breast balls from plastic wrap. Gently press each chicken breast ball into flour mixture to coat and shake off any excess flour. Dip into beaten eggs, then press into bread crumbs. Place breaded chicken onto a plate, cover with plastic wrap, and return to the freezer to chill until firm, about 15 minutes.",
-            "Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C). Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil.",
+            "Heat oil in a deep-fryer or large saucepan to 350 degrees F . Line a baking sheet with aluminum foil.",
             "Working in batches, cook chicken, gathered-side down, in hot oil and until lightly golden on both sides, about 1 minute per side. Transfer to prepared baking sheet. Sprinkle salt and cayenne pepper over the top.",
-            "Bake in the preheated oven until you can hear the butter start to sizzle on the baking sheet, 15 to 17 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Let rest for 5 minutes before serving."
+            "Bake in the preheated oven until you can hear the butter start to sizzle on the baking sheet, 15 to 17 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F . Let rest for 5 minutes before serving."
         ],
         "rating": "4.75",
         "nutrition": [
@@ -3195,37 +3195,37 @@
         "total_time": "6 hrs 10 mins",
         "ingredients": [
             {
-                "quantity": "4",
+                "quantity": 4,
                 "measurement": "",
                 "ingredient": "skinless, boneless chicken thighs",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "soy sauce",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "ketchup",
                 "comment": ""
             },
             {
-                "quantity": "\u2153",
+                "quantity": 0.33,
                 "measurement": "cup",
                 "ingredient": "honey",
                 "comment": ""
             },
             {
-                "quantity": "3",
+                "quantity": 3,
                 "measurement": "cloves",
                 "ingredient": "garlic",
                 "comment": "minced"
             },
             {
-                "quantity": "1",
+                "quantity": 1,
                 "measurement": "teaspoon",
                 "ingredient": "dried basil",
                 "comment": ""

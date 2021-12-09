@@ -1,23 +1,20 @@
-from collections import namedtuple
-import re
 import json
+import re
+file_name = 'recipe_morrocan_final.json'
 
-import unicodedata as ud
-file_name = 'recipe_egyptian_final.json'
-print(ud.numeric(u'⅕'))
-
-ASCII_BYTE = " !\"#\$%&\'\(\)\*\+,-\./0123456789:;<=>\?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\[\]\^_`abcdefghijklmnopqrstuvwxyz\{\|\}\\\~\t"
-
-
-def unicode_strings(buf, n=4):
-    reg = b"((?:[%s]\x00){%d,})" % (ASCII_BYTE, n)
-    uni_re = re.compile(reg)
-    for match in uni_re.finditer(buf):
-        try:
-            yield match.group().decode("utf-16"), match.start()
-        except UnicodeDecodeError:
-            pass
-
+values = {
+    '\u2009': '',
+    '\u00bd': '.5',
+    '\u00bc': '.25',
+    '\u00be': '.75',
+    '\u2154': '.66',
+    '\u2155': '.20',
+    '\u2156': '.80',
+    '\u2153': '.33',
+    '\u2157': '.67',
+    '\u215b': '.12',
+    'to taste': '1',
+}
 
 with open(file_name) as f:
     data = json.load(f)
@@ -27,12 +24,20 @@ with open(file_name) as f:
         ingredientList = []
         for j in i['ingredients']:
             quantity = j['quantity']
-            quantity = unicode_strings(quantity)
+            # if bool(re.match(r"\(.*?\)", quantity)) == True:
+
             print(quantity)
-            j['quantity'] = quantity
+            quantity = re.sub(r"\(.*?\)", "", quantity)
+            print('changed')
+            print(quantity)
+            for v in values:
+                quantity = quantity.replace(v, values[v])
+            if quantity == '':
+                quantity = "1"
+            j['quantity'] = float(quantity)
             ingredientList.append(j)
         i['ingredients'] = ingredientList
         list.append(i)
 
-    with open('recipe_egyptian_final_test.json', 'w') as outfile:
+    with open(file_name, 'w') as outfile:
         json.dump(list, outfile)

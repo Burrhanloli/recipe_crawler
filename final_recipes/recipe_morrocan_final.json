@@ -9,103 +9,103 @@
         "total_time": "5 mins",
         "ingredients": [
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "pound",
                 "ingredient": "skinless, boneless chicken breast meat",
                 "comment": "cubed"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "teaspoons",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "onion",
                 "comment": "chopped"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "cloves",
                 "ingredient": "garlic",
                 "comment": "chopped"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "",
                 "ingredient": "carrots",
                 "comment": "sliced"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "stalks",
                 "ingredient": "celery",
                 "comment": "sliced"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "tablespoon",
                 "ingredient": "minced",
                 "comment": "ginger root"
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "paprika",
                 "comment": ""
             },
             {
-                "quantity": "\u00be",
+                "quantity": 0.75,
                 "measurement": "teaspoon",
                 "ingredient": "cumin",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "dried oregano",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "cayenne pepper",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "turmeric",
                 "comment": ""
             },
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "cups",
                 "ingredient": "chicken broth",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "cup",
                 "ingredient": "tomatoes",
                 "comment": "crushed"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "cup",
                 "ingredient": "chickpeas",
                 "comment": "canned, drained"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "zucchini",
                 "comment": "sliced"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "tablespoon",
                 "ingredient": "lemon juice",
                 "comment": ""
@@ -137,73 +137,73 @@
         "total_time": "30 mins",
         "ingredients": [
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "pounds",
                 "ingredient": "lamb",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "cup",
                 "ingredient": "raisins",
                 "comment": ""
             },
             {
-                "quantity": "5",
+                "quantity": 5.0,
                 "measurement": "ounces",
                 "ingredient": "goat cheese",
                 "comment": ""
             },
             {
-                "quantity": "\u2153",
+                "quantity": 0.33,
                 "measurement": "cup",
                 "ingredient": "mayonnaise",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "red",
                 "ingredient": "onion",
                 "comment": "finely chopped"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "cloves",
                 "ingredient": "garlic",
                 "comment": "finely chopped"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "chopped cilantro",
                 "comment": ""
             },
             {
-                "quantity": "\u00be",
+                "quantity": 0.75,
                 "measurement": "tablespoon",
                 "ingredient": "cayenne pepper",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "cumin",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "coriander",
                 "comment": ""
             },
             {
-                "quantity": "to taste",
+                "quantity": 1.0,
                 "measurement": "to taste",
                 "ingredient": "salt",
                 "comment": "to taste"
             },
             {
-                "quantity": "to taste",
+                "quantity": 1.0,
                 "measurement": "to taste",
                 "ingredient": "pepper",
                 "comment": "to taste"
@@ -235,73 +235,73 @@
         "total_time": "2 hrs 15 mins",
         "ingredients": [
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "tablespoon",
                 "ingredient": "olive oil",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "",
                 "ingredient": "onions",
                 "comment": "peeled and sliced into rings"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "pounds",
                 "ingredient": "lamb meat",
                 "comment": "cut into 1 1/2 inch cubes"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "cumin",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "coriander seed",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "ginger",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "cinnamon",
                 "comment": ""
             },
             {
-                "quantity": "to taste",
+                "quantity": 1.0,
                 "measurement": "to taste",
                 "ingredient": "salt",
                 "comment": "to taste"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "4",
+                "quantity": 4.0,
                 "measurement": "",
                 "ingredient": "pears",
                 "comment": "peeled, cored and cut into 1 1/2 inch chunks"
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "golden raisins",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "blanched slivered almonds",
                 "comment": ""
@@ -332,109 +332,109 @@
         "total_time": "1 hr 5 mins",
         "ingredients": [
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "vegetable oil",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "onion",
                 "comment": "chopped"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "pounds",
                 "ingredient": "tomatoes",
                 "comment": "diced"
             },
             {
-                "quantity": "1 (15 ounce)",
+                "quantity": 1.0,
                 "measurement": "can",
                 "ingredient": "chickpeas",
                 "comment": "drained"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "bunch",
                 "ingredient": "cilantro",
                 "comment": "chopped"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "bunch",
                 "ingredient": "parsley",
                 "comment": "chopped"
             },
             {
-                "quantity": "20",
+                "quantity": 20.0,
                 "measurement": "",
                 "ingredient": "mint leaves",
                 "comment": "chopped"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "paprika",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "turmeric",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "ginger",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "harissa",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "pinch",
                 "ingredient": "saffron threads",
                 "comment": ""
             },
             {
-                "quantity": "4",
+                "quantity": 4.0,
                 "measurement": "cups",
                 "ingredient": "water",
                 "comment": "or more to taste"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "tablespoon",
                 "ingredient": "all-purpose flour",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "cornstarch",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "cherry tomatoes",
                 "comment": "halved"
             },
             {
-                "quantity": "to taste",
+                "quantity": 1.0,
                 "measurement": "to taste",
                 "ingredient": "salt",
                 "comment": "to taste"
             },
             {
-                "quantity": "to taste",
+                "quantity": 1.0,
                 "measurement": "to taste",
                 "ingredient": "black pepper",
                 "comment": "to taste"
@@ -464,109 +464,109 @@
         "total_time": "5 hrs 30 mins",
         "ingredients": [
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "olive oil",
                 "comment": ""
             },
             {
-                "quantity": "8",
+                "quantity": 8.0,
                 "measurement": "",
                 "ingredient": "skinless, boneless chicken thighs",
                 "comment": "cut into 1-inch pieces"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "eggplant",
                 "comment": "cut into 1 inch cubes"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "",
                 "ingredient": "onions",
                 "comment": "thinly sliced"
             },
             {
-                "quantity": "4",
+                "quantity": 4.0,
                 "measurement": "",
                 "ingredient": "carrots",
                 "comment": "thinly sliced"
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "dried cranberries",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "cup",
                 "ingredient": "chopped dried apricots",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "cups",
                 "ingredient": "chicken broth",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "tomato paste",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "lemon juice",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "all-purpose flour",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "teaspoons",
                 "ingredient": "garlic salt",
                 "comment": ""
             },
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "teaspoons",
                 "ingredient": "cumin",
                 "comment": ""
             },
             {
-                "quantity": "1\u2009\u00bd",
+                "quantity": 1.5,
                 "measurement": "teaspoons",
                 "ingredient": "ginger",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "cinnamon",
                 "comment": ""
             },
             {
-                "quantity": "\u00be",
+                "quantity": 0.75,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "cup",
                 "ingredient": "water",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "cup",
                 "ingredient": "couscous",
                 "comment": ""
@@ -600,115 +600,115 @@
         "total_time": "50 mins",
         "ingredients": [
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "sweet potato",
                 "comment": "peeled and cubed"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "eggplant",
                 "comment": "cubed"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "green bell pepper",
                 "comment": "chopped"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "red bell pepper",
                 "comment": "chopped"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "",
                 "ingredient": "carrots",
                 "comment": "chopped"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "onion",
                 "comment": "chopped"
             },
             {
-                "quantity": "6",
+                "quantity": 6.0,
                 "measurement": "tablespoons",
                 "ingredient": "olive oil",
                 "comment": ""
             },
             {
-                "quantity": "3",
+                "quantity": 3.0,
                 "measurement": "cloves",
                 "ingredient": "garlic",
                 "comment": "minced"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "turmeric",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "tablespoon",
                 "ingredient": "curry powder",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "cinnamon",
                 "comment": ""
             },
             {
-                "quantity": "\u00be",
+                "quantity": 0.75,
                 "measurement": "tablespoon",
                 "ingredient": "sea salt",
                 "comment": ""
             },
             {
-                "quantity": "\u00be",
+                "quantity": 0.75,
                 "measurement": "teaspoon",
                 "ingredient": "cayenne pepper",
                 "comment": ""
             },
             {
-                "quantity": "1 (15 ounce)",
+                "quantity": 1.0,
                 "measurement": "can",
                 "ingredient": "garbanzo beans",
                 "comment": "drained"
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "cup",
                 "ingredient": "blanched almonds",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "zucchini",
                 "ingredient": "sliced",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "tablespoons",
                 "ingredient": "raisins",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "cup",
                 "ingredient": "orange juice",
                 "comment": ""
             },
             {
-                "quantity": "10",
+                "quantity": 10.0,
                 "measurement": "ounces",
                 "ingredient": "spinach",
                 "comment": ""
@@ -740,145 +740,145 @@
         "total_time": "8 hrs",
         "ingredients": [
             {
-                "quantity": "3",
+                "quantity": 3.0,
                 "measurement": "tablespoons",
                 "ingredient": "olive oil",
                 "comment": "divided"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "pounds",
                 "ingredient": "lamb meat",
                 "comment": "cut into 1 1/2 inch cubes"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "teaspoons",
                 "ingredient": "paprika",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "turmeric",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "cumin",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "cayenne pepper",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "cinnamon",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "cloves",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "cardamom",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "kosher salt",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "ginger",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "pinch",
                 "ingredient": "saffron",
                 "comment": ""
             },
             {
-                "quantity": "\u00be",
+                "quantity": 0.75,
                 "measurement": "teaspoon",
                 "ingredient": "garlic powder",
                 "comment": ""
             },
             {
-                "quantity": "\u00be",
+                "quantity": 0.75,
                 "measurement": "teaspoon",
                 "ingredient": "coriander",
                 "comment": ""
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "",
                 "ingredient": "onions",
                 "comment": "cut into 1-inch cubes"
             },
             {
-                "quantity": "5",
+                "quantity": 5.0,
                 "measurement": "",
                 "ingredient": "carrots",
                 "comment": "peeled, cut into fourths, then sliced lengthwise into thin strips"
             },
             {
-                "quantity": "3",
+                "quantity": 3.0,
                 "measurement": "cloves",
                 "ingredient": "garlic",
                 "comment": "minced"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "tablespoon",
                 "ingredient": "freshly",
                 "comment": "grated ginger"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "lemon",
                 "comment": "zested"
             },
             {
-                "quantity": "1 (14.5 ounce)",
+                "quantity": 1.0,
                 "measurement": "can",
                 "ingredient": "homemade chicken broth",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "tablespoon",
                 "ingredient": "sun-dried",
                 "comment": "tomato paste"
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "tablespoon",
                 "ingredient": "honey",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "tablespoon",
                 "ingredient": "cornstarch (Optional)",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "tablespoon",
                 "ingredient": "water (Optional)",
                 "comment": ""
@@ -910,79 +910,79 @@
         "total_time": "4 hrs 25 mins",
         "ingredients": [
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "",
                 "ingredient": "onion",
                 "comment": "sliced"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "cloves",
                 "ingredient": "garlic",
                 "comment": "minced (Optional)"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "",
                 "ingredient": "carrots",
                 "comment": "peeled and diced"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "",
                 "ingredient": "sweet potatoes",
                 "comment": "peeled and diced"
             },
             {
-                "quantity": "1 (15 ounce)",
+                "quantity": 1.0,
                 "measurement": "can",
                 "ingredient": "garbanzo beans",
                 "comment": "drained and rinsed"
             },
             {
-                "quantity": "2",
+                "quantity": 2.0,
                 "measurement": "pounds",
                 "ingredient": "skinless, boneless chicken breast halves",
                 "comment": "cut into 2-inch pieces"
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "cumin",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "turmeric",
                 "comment": ""
             },
             {
-                "quantity": "\u00bc",
+                "quantity": 0.25,
                 "measurement": "teaspoon",
                 "ingredient": "cinnamon",
                 "comment": ""
             },
             {
-                "quantity": "\u00bd",
+                "quantity": 0.5,
                 "measurement": "teaspoon",
                 "ingredient": "black pepper",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "dried parsley",
                 "comment": ""
             },
             {
-                "quantity": "1",
+                "quantity": 1.0,
                 "measurement": "teaspoon",
                 "ingredient": "salt",
                 "comment": ""
             },
             {
-                "quantity": "1 (14.5 ounce)",
+                "quantity": 1.0,
                 "measurement": "can",
                 "ingredient": "diced tomatoes",
                 "comment": ""

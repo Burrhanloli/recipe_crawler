@@ -1,10 +1,24 @@
+from collections import namedtuple
+import re
 import json
 
-import fractions
-import quopri
 import unicodedata as ud
 file_name = 'recipe_egyptian_final.json'
-ud.numeric(u'⅕')
+print(ud.numeric(u'⅕'))
+
+ASCII_BYTE = " !\"#\$%&\'\(\)\*\+,-\./0123456789:;<=>\?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\[\]\^_`abcdefghijklmnopqrstuvwxyz\{\|\}\\\~\t"
+
+
+def unicode_strings(buf, n=4):
+    reg = b"((?:[%s]\x00){%d,})" % (ASCII_BYTE, n)
+    uni_re = re.compile(reg)
+    for match in uni_re.finditer(buf):
+        try:
+            yield match.group().decode("utf-16"), match.start()
+        except UnicodeDecodeError:
+            pass
+
+
 with open(file_name) as f:
     data = json.load(f)
 
@@ -13,23 +27,8 @@ with open(file_name) as f:
         ingredientList = []
         for j in i['ingredients']:
             quantity = j['quantity']
+            quantity = unicode_strings(quantity)
             print(quantity)
-            if '\\u' in quantity:
-                string_ = quopri.decodestring(quantity).decode('utf-8')
-                # Assume each string is composed solely of one or more digits,
-                # with the fraction character at the end
-                int_part = int(string_[:-1])
-
-                normalised = ud.normalize('NFKD', string_[-1])
-                # Note that the separator character here is chr(8260),
-                # the 'FRACTION SLASH' character, not the ASCII 'SOLIDUS'
-                nominator, _, denominator = normalised.partition('⁄')
-
-                fractional_part = fractions.Fraction(
-                    *map(int, (nominator, denominator)))
-
-                print(
-                    f'Integer part {int_part}, fractional part {fractional_part!r}')
             j['quantity'] = quantity
             ingredientList.append(j)
         i['ingredients'] = ingredientList

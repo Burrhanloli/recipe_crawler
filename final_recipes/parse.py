@@ -24,12 +24,7 @@ with open(file_name) as f:
         ingredientList = []
         for j in i['ingredients']:
             quantity = j['quantity']
-            # if bool(re.match(r"\(.*?\)", quantity)) == True:
-
-            print(quantity)
             quantity = re.sub(r"\(.*?\)", "", quantity)
-            print('changed')
-            print(quantity)
             for v in values:
                 quantity = quantity.replace(v, values[v])
             if quantity == '':
